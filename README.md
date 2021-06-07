@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Hi! I'm August. Welcome to my Github Profile 👋
+
+
+<a href="https://github.com/AugustRush">
+  <img height="225" src="https://github-readme-stats.vercel.app/api?username=augustrush&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustrush&theme=gray"/>
+</a>
+
+
+
+- I'm a **iOS Developer** in DeWu
